@@ -23,7 +23,7 @@ repository               : "https://sownvn.github.io/buiducson.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "buiducsonprof.jpg"
   name             : "Bui Duc Son"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at SKKU"
