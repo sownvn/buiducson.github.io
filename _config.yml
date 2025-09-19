@@ -30,7 +30,7 @@ author:
   location         : "Suwon Korea"
   employer         : "Wireless Communications Lab"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sonteomtp2002@gmail.com or buiducson@skku.edu" 
 
   # Academic websites
   academia         : # URL
@@ -40,8 +40,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-8795-5384"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Duc-Son-Bui?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
