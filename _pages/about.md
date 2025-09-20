@@ -8,49 +8,25 @@ redirect_from:
 ---
 
 <style>
-.section-card {
-  background: #ffffff;
-  border: 1px solid #e5e9f2;
-  border-radius: 12px;
-  padding: 1.5rem 2rem;
-  margin-bottom: 1.5rem;
-  box-shadow: 0 3px 12px rgba(0,0,0,0.04);
-}
-.section-card h2 {
-  font-size: 1.4rem;
-  font-weight: 700;
-  margin-top: 0;
-  margin-bottom: 0.8rem;
-  color: #2a4d9b;
-}
-.news-list {
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-}
-.news-item {
-  margin-bottom: 0.6rem;
-}
-.news-date {
-  display: inline-block;
-  font-weight: 700;
-  color: #3652a5;
-  margin-right: 0.5rem;
-  min-width: 5.5rem;
-}
+.section-text { text-align: justify; line-height: 1.75; font-size: 1.05rem; margin-top: 0.8rem; }
+.news-list { list-style: none; padding-left: 0; margin-top: 0.8rem; }
+.news-item { margin: 0.5rem 0; }
+.news-date { display: inline-block; min-width: 6rem; font-weight: 700; color: #3652a5; margin-right: 0.5rem; }
 </style>
 
-<div class="section-card">
-<h2>Areas of Interest</h2>
+## Research Interests
+
+<div class="section-text">
 <ul>
-<li><strong>RIS-assisted MIMO:</strong> Channel modeling, double scattering, spatial correlation.</li>
-<li><strong>AI-driven Wireless:</strong> Autoencoder-based communication, federated learning.</li>
-<li><strong>Adversarial Robustness:</strong> Attacks and defenses for 6G communication systems.</li>
+  <li><strong>RIS-assisted MIMO:</strong> Channel modeling, double scattering, spatial correlation.</li>
+  <li><strong>AI-driven Wireless:</strong> Autoencoder-based communication, federated learning, semantic communications.</li>
+  <li><strong>Adversarial Robustness:</strong> Attacks and defenses for 6G wireless systems.</li>
 </ul>
 </div>
 
-<div class="section-card" style="text-align: justify;">
-<h2>Biography</h2>
+## Biography
+
+<div class="section-text">
 <p><strong>Bui Duc Son</strong> is a Ph.D. student and Associate Researcher at the 
 <a href="https://wireless.skku.edu/main/bbs_list.php?unsingcode1=1715440655&unsingcode2=1715441006&unsingcode3=1715441061&code=research_c" target="_blank">
 Wireless Communications Laboratory (WCL)</a>, Sungkyunkwan University (SKKU), under the supervision of 
@@ -72,11 +48,10 @@ and the <strong>Second Prize in the National Science and Technology Awards for S
 He also serves as a reviewer for <em>IEEE Internet of Things Journal</em> and IEEE PIMRC 2025.</p>
 </div>
 
-<div class="section-card">
-<h2>News</h2>
+## News
+
 <ul class="news-list">
-<li class="news-item"><span class="news-date">Aug 2025</span>Survey on GNNs for IoT published in <em>IEEE Communications Surveys & Tutorials</em>.</li>
+<li class="news-item"><span class="news-date">Aug 2025</span>Survey on GNNs for IoT published in <em>IEEE Communications Surveys &amp; Tutorials</em>.</li>
 <li class="news-item"><span class="news-date">May 2025</span>Received <strong>Australia-Vietnam Strategic Technologies Scholarship</strong>.</li>
 <li class="news-item"><span class="news-date">Nov 2024</span>Paper on adversarial attacks for RIS-MIMO accepted to <em>IEEE WCL</em>.</li>
 </ul>
-</div>
