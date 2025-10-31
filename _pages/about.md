@@ -45,7 +45,7 @@ and BLER analysis solutions.</p>
 <em>IEEE Communications Surveys & Tutorials</em>. 
 He has received multiple awards, such as the <strong>Australia-Vietnam Strategic Technologies Scholarship (2025)</strong> 
 and the <strong>Second Prize in the National Science and Technology Awards for Students (2024)</strong>. 
-He also serves as a reviewer for <em>IEEE Internet of Things Journal</em> and IEEE PIMRC 2025.</p>
+He also serves as a reviewer for <em>IEEE Internet of Things Journal</em>  <em>Journal on Selected Areas in Communications </em> and IEEE PIMRC 2025.</p>
 </div>
 
 ## News
