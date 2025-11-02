@@ -35,7 +35,7 @@ He is pursuing a combined Master’s and Doctoral degree in Electrical and Compu
 wireless communications, distributed RIS-aided MIMO systems, and AI-driven network optimization.</p>
 
 <p>He previously worked as a Research Assistant at NETLAB, HUST, under 
-<a href="https://scholar.google.com.vn/citations?user=wofvFJMAAAAJ&hl=en" target="_blank">Dr. Trinh Van Chien</a>, 
+<a href="https://scholar.google.com/citations?user=F4PCYOcAAAAJ&hl=en" target="_blank">Dr. Trinh Van Chien</a>, 
 and participated in the <em>Viettel Digital Talent 2023</em> program, where he developed 5G performance monitoring tools 
 and BLER analysis solutions.</p>
 
