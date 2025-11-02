@@ -51,7 +51,7 @@ He also serves as a reviewer for <em>IEEE Internet of Things Journal</em>  <em>J
 ## News
 
 <ul class="news-list">
-<li class="news-item"><span class="news-date">Nov 2025</span>A paper is accepted in <em>IEEE Transactions on Communications &amp; Tutorials</em>.</li>
+<li class="news-item"><span class="news-date">Nov 2025</span>A paper is accepted in <em>IEEE Transactions on Communications </em>.</li>
 <li class="news-item"><span class="news-date">Aug 2025</span>Survey on GNNs for IoT published in <em>IEEE Communications Surveys &amp; Tutorials</em>.</li>
 <li class="news-item"><span class="news-date">May 2025</span>Received <strong>Australia-Vietnam Strategic Technologies Scholarship</strong>.</li>
 <li class="news-item"><span class="news-date">Nov 2024</span>Paper on adversarial attacks for RIS-MIMO accepted to <em>IEEE WCL</em>.</li>
