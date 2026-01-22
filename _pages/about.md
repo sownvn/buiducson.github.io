@@ -51,6 +51,7 @@ He also serves as a reviewer for <em>IEEE Internet of Things Journal</em>  <em>J
 ## News
 
 <ul class="news-list">
+<li class="news-item"><span class="news-date">Jan 2026</span> I got 100 citations and CICE Superior Research Award. </li>
 <li class="news-item"><span class="news-date">Nov 2025</span> Became an IEEE Graduate Student Member.</li>
 <li class="news-item"><span class="news-date">Nov 2025</span> Joined the Technical Program Committee (TPC) of IEEE ICC.</li>  
 <li class="news-item"><span class="news-date">Nov 2025</span>A paper is accepted in <em>IEEE Transactions on Communications </em>.</li>
