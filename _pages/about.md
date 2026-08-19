@@ -18,21 +18,20 @@ redirect_from:
 
 <div class="section-text">
 <ul>
-  <li><strong>RIS-assisted MIMO:</strong> Channel modeling, double scattering, spatial correlation.</li>
   <li><strong>AI-driven Wireless:</strong> Autoencoder-based communication, federated learning, semantic communications.</li>
-  <li><strong>Adversarial Robustness:</strong> Attacks and defenses for 6G wireless systems.</li>
+  <li><strong>Adversarial Robustness:</strong> Adversarial attacks and defenses for 6G/B6G.</li>
 </ul>
 </div>
 
 ## Biography
 
 <div class="section-text">
-<p><strong>Bui Duc Son</strong> is a Ph.D. student and Associate Researcher at the 
+<p><strong>Bui Duc Son</strong> is a Ph.D. student at the 
 <a href="https://wireless.skku.edu/main/bbs_list.php?unsingcode1=1715440655&unsingcode2=1715441006&unsingcode3=1715441061&code=research_c" target="_blank">
 Wireless Communications Laboratory (WCL)</a>, Sungkyunkwan University (SKKU), under the supervision of 
 <a href="https://scholar.google.com/citations?user=v2chr7kAAAAJ&hl=en" target="_blank">Prof. Dong In Kim</a>. 
 He is pursuing a combined Master’s and Doctoral degree in Electrical and Computer Engineering, focusing on 
-wireless communications, distributed RIS-aided MIMO systems, and AI-driven network optimization.</p>
+wireless communications, adversarial attacks and defense, and AI-driven network optimization.</p>
 
 <p>He previously worked as a Research Assistant at NETLAB, HUST, under 
 <a href="https://scholar.google.com/citations?user=F4PCYOcAAAAJ&hl=en" target="_blank">Dr. Trinh Van Chien</a>, 
@@ -52,9 +51,8 @@ He also serves as a reviewer for <em>IEEE Internet of Things Journal</em>  <em>J
 
 <ul class="news-list">
 <li class="news-item"><span class="news-date">Aug 2026</span> A paper is accepted at IEEE GLOBECOM 2026, Macao. </li>
-<li class="news-item"><span class="news-date">Jul 2026</span> The research proposal, titled “Next-Generation (B6G) Communication Systems through Evolution into Resilient and 
-Autonomous Digital Populations,” was written by me in English under the guidance of Prof. Dong-In Kim with support from my labmates. The project has been selected for funding by the National Research Foundation (NRF) of Korea </li>
-<li class="news-item"><span class="news-date">Mar 2026</span> The research proposal, titled “Cross-Domain Adversarial Attack and Defense Mechanisms Development for AI-Native 6G Networks,” was written by me in English under the guidance of Prof. Dong-In Kim with support from my labmates. The project has been selected for funding by the National Research Foundation (NRF) of Korea. </li>
+<li class="news-item"><span class="news-date">Jul 2026</span> A research proposal was written by me in English under the guidance of Prof. Dong-In Kim with support from my lab mates has been selected for funding by NRF Korea </li>
+<li class="news-item"><span class="news-date">Mar 2026</span> A research proposal was written by me in English under the guidance of Prof. Dong-In Kim with support from my lab mates has been selected for funding by NRF Korea. </li>
 <li class="news-item"><span class="news-date">Jan 2026</span> I got 100 citations and CICE Superior Research Award. </li>
 <li class="news-item"><span class="news-date">Nov 2025</span> Became an IEEE Graduate Student Member.</li>
 <li class="news-item"><span class="news-date">Nov 2025</span> Joined the Technical Program Committee (TPC) of IEEE ICC.</li>  
