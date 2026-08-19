@@ -37,14 +37,10 @@ wireless communications, adversarial attacks and defense, and AI-driven network 
 <a href="https://scholar.google.com/citations?user=F4PCYOcAAAAJ&hl=en" target="_blank">Dr. Trinh Van Chien</a>, 
 and participated in the <em>Viettel Digital Talent 2023</em> program, where he developed 5G performance monitoring tools 
 and BLER analysis solutions.</p>
-
-<p>His research has been published in leading IEEE venues, including 
-<em>IEEE Communications Letters</em>, <em>IEEE Internet of Things Journal</em>, 
-<em>IEEE Wireless Communications Letters</em>, and 
-<em>IEEE Communications Surveys & Tutorials</em>. 
-He has received multiple awards, such as the <strong>Australia-Vietnam Strategic Technologies Scholarship (2025)</strong> 
-and the <strong>Second Prize in the National Science and Technology Awards for Students (2024)</strong>. 
-He also serves as a reviewer for <em>IEEE Internet of Things Journal</em>  <em>Journal on Selected Areas in Communications </em> and IEEE PIMRC 2025.</p>
+<p>His research has been published in leading IEEE venues. He has received multiple awards, such as the <strong> <a href="https://ice.skku.edu/ice/notice_grad.do?mode=view&articleNo=212074&article.offset=90&articleLimit=10" target="_blank">
+Wireless Communications Laboratory (WCL)</a>Distinguished Research Award (CICE, SKKU, Korea) </strong> 
+and the <strong>Second Prize in the National Science and Technology Awards for Students (Vietnam) (2024)</strong>. 
+He also serves as a reviewer for various IEEE Journals and Conferences.</p>
 </div>
 
 ## News
