@@ -33,7 +33,7 @@ Wireless Communications Laboratory (WCL)</a>, Sungkyunkwan University (SKKU), un
 He is pursuing a combined Master’s and Doctoral degree in Electrical and Computer Engineering, focusing on 
 wireless communications, adversarial attacks and defense, and AI-driven network optimization.</p>
 
-<p>He previously worked as a Research Assistant at <a href="https://www.facebook.com/netlab.soict" target="_blank">NETLAB,/a> HUST, under 
+<p>He previously worked as a Research Assistant at <a href="https://www.facebook.com/netlab.soict" target="_blank">NETLAB,</a> HUST, under 
 <a href="https://scholar.google.com/citations?user=F4PCYOcAAAAJ&hl=en" target="_blank">Dr. Trinh Van Chien</a>, 
 and participated in the <em>Viettel Digital Talent 2023</em> program, where he developed 5G performance monitoring tools 
 and BLER analysis solutions.</p>
