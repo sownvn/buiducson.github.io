@@ -33,12 +33,12 @@ Wireless Communications Laboratory (WCL)</a>, Sungkyunkwan University (SKKU), un
 He is pursuing a combined Master’s and Doctoral degree in Electrical and Computer Engineering, focusing on 
 wireless communications, adversarial attacks and defense, and AI-driven network optimization.</p>
 
-<p>He previously worked as a Research Assistant at NETLAB, HUST, under 
+<p>He previously worked as a Research Assistant at <a href="https://www.facebook.com/netlab.soict" target="_blank">NETLAB,/a> HUST, under 
 <a href="https://scholar.google.com/citations?user=F4PCYOcAAAAJ&hl=en" target="_blank">Dr. Trinh Van Chien</a>, 
 and participated in the <em>Viettel Digital Talent 2023</em> program, where he developed 5G performance monitoring tools 
 and BLER analysis solutions.</p>
 <p>His research has been published in leading IEEE venues. He has received multiple awards, such as the <strong> <a href="https://ice.skku.edu/ice/notice_grad.do?mode=view&articleNo=212074&article.offset=90&articleLimit=10" target="_blank">
-Distinguished Research Award (CICE, SKKU, Korea)</a>  </strong>
+Distinguished Research Award (CICE, SKKU, Korea)</a> </strong>
 and the <strong>Second Prize in the National Science and Technology Awards for Students (Vietnam) (2024)</strong>. 
 He also serves as a reviewer for various IEEE Journals and Conferences.</p>
 </div>
