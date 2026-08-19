@@ -51,6 +51,9 @@ He also serves as a reviewer for <em>IEEE Internet of Things Journal</em>  <em>J
 ## News
 
 <ul class="news-list">
+<li class="news-item"><span class="news-date">Aug 2026</span> A paper is accepted at IEEE GLOBECOM 2026, Macao. </li>
+<li class="news-item"><span class="news-date">Aug 2026</span> The research proposal, titled “Next-Generation (B6G) Communication Systems through Evolution into Resilient and 
+Autonomous Digital Populations,” was written by me in English under the guidance of Prof. Dong-In Kim with support from my labmates. The project has been selected for funding by the National Research Foundation (NRF) of Korea – 2026 Core Research Grants (Type B) </li>
 <li class="news-item"><span class="news-date">Mar 2026</span> The research proposal, titled “Cross-Domain Adversarial Attack and Defense Mechanisms Development for AI-Native 6G Networks,” was written by me in English under the guidance of Prof. Dong-In Kim with support from my labmates. The project has been selected for funding by the National Research Foundation (NRF) of Korea – 2026 Core Research Grants (Type B). </li>
 <li class="news-item"><span class="news-date">Jan 2026</span> I got 100 citations and CICE Superior Research Award. </li>
 <li class="news-item"><span class="news-date">Nov 2025</span> Became an IEEE Graduate Student Member.</li>
