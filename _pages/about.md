@@ -38,7 +38,7 @@ wireless communications, adversarial attacks and defense, and AI-driven network 
 and participated in the <em>Viettel Digital Talent 2023</em> program, where he developed 5G performance monitoring tools 
 and BLER analysis solutions.</p>
 <p>His research has been published in leading IEEE venues. He has received multiple awards, such as the <strong> <a href="https://ice.skku.edu/ice/notice_grad.do?mode=view&articleNo=212074&article.offset=90&articleLimit=10" target="_blank">
-Wireless Communications Laboratory (WCL)</a>Distinguished Research Award (CICE, SKKU, Korea) </strong> 
+Distinguished Research Award (CICE, SKKU, Korea) </strong>  </a>
 and the <strong>Second Prize in the National Science and Technology Awards for Students (Vietnam) (2024)</strong>. 
 He also serves as a reviewer for various IEEE Journals and Conferences.</p>
 </div>
